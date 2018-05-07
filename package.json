@@ -1,0 +1,7 @@
+{
+  "name": "example",
+  "dependencies": {
+    "@myCompany/anotherLib": "git://github.com/thomasbertet/360000466210-scoped",
+    "myLib":"git://github.com/thomasbertet/360000466210-simple"
+  }
+}
